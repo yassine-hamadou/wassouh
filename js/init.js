@@ -37,8 +37,8 @@ jQuery(document).ready(function(){
     });
 
     jQuery('.counter').counterUp({
-        delay: 10,
-        time: 1000
+        delay: 20,
+        time: 100
     });
 
     jQuery('#single-post-nav a').tooltip();
